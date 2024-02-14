@@ -2,7 +2,7 @@ package bitwiseSwapper;
 import java.util.Scanner;
 public class Swapper {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
     Scanner scan= new Scanner(System.in);
     System.out.println("Enter the first integer: ");
     int num1= scan.nextInt();
